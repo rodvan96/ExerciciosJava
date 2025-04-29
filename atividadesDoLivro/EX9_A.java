@@ -18,6 +18,8 @@ public class EX9_A {
     area = (base * altura)/2;
 
     System.out.println("A área do triângulo é " + area);
+    System.out.println("Teste de edição do App");
+    System.out.println("Teste de salvamento Patch");
 
     }
 }
